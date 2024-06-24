@@ -1,13 +1,12 @@
 package core.mate.academy.service;
 
 import core.mate.academy.model.Bulldozer;
-import core.mate.academy.service.impl.BulldozerProducer;
 import core.mate.academy.model.Excavator;
-import core.mate.academy.service.impl.ExcavatorProducer;
 import core.mate.academy.model.Machine;
 import core.mate.academy.model.Truck;
+import core.mate.academy.service.impl.BulldozerProducer;
+import core.mate.academy.service.impl.ExcavatorProducer;
 import core.mate.academy.service.impl.TruckProducer;
-
 import java.util.ArrayList;
 import java.util.List;
 
